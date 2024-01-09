@@ -22,12 +22,14 @@
   .tableau {
     width: 80%;
   }
+
+  /* Video presa */
   #video-presa {
     width: 100%;
-    margin-top: 50px;
+    margin-top: 50px; 
   }
   #video-presa h3{
-    width: 65%;
+    width: 65%; 
   }
   #video-presa .p2 {
     width: 70%;
@@ -57,9 +59,9 @@
   #video-albin video {    
     width: 70%;
     height: auto;
-    margin: 30px auto 0;
+    margin: 30px auto 0;    
   }  
-
+ 
   /* Races */
   .races{
    margin-top: -20%;
